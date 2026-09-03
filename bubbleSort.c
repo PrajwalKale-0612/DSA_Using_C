@@ -4,6 +4,7 @@ void printArray(int arr[],int num)
     printf("\n");
     for (int i = 0; i < num-1; i++)
     {
+    
         printf("%d ",arr[i]);
     }
     printf("\n");
